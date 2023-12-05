@@ -15,8 +15,8 @@ is# 👋 Hi dear, I’m Miracle Chibuike
 
 ![bt-removebg-preview](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/c91c2fb2-3276-4860-821c-673938068028)
 
-![download-removebg-preview (2)](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/d4d6efca-07cb-4afb-89c5-79f8fd258769)
 
+![download](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/bbd45085-b6df-49fd-abc2-8e3f205fe301)
 
 # Connect With Me
 [Github](https://www.github.com/MiracleChibuike)
