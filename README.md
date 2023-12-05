@@ -5,7 +5,8 @@ is# 👋 Hi dear, I’m Miracle Chibuike
 
   # My Skills: 
   
-![codeLanguages](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/e8d048ea-8b6b-4375-b151-97a24cb3c949)
+![my skills](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/a1fbaecd-1082-462c-951c-4518045c8525)
+
 
 
 
