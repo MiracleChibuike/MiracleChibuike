@@ -5,8 +5,9 @@ is# 👋 Hi dear, I’m Miracle Chibuike
 
   # Skills: 
   
-![My Skills]()
-![d9300c98f4fac3710b304e9bd82fa5de-removebg-preview](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/8d3628e8-b09f-4f6a-814c-42aaefb286fb)
+
+![d9300c98f4fac3710b304e9bd82fa5de](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/2f152f63-afa3-4106-a9c5-ff61ad07cf23)
+
 
 ![download-removebg-preview](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/7785d226-4406-4435-84f1-1868de6dc0fd)
 
