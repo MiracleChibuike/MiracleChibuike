@@ -14,7 +14,9 @@ is# 👋 Hi dear, I’m Miracle Chibuike
 
 
 # Support Me
-https://www.buymeacoffee.com/MiracleChibuike
+
+
+<a href="https://www.buymeacoffee.com/MiracleChibuike" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 <!---
