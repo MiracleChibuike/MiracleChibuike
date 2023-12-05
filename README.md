@@ -5,7 +5,16 @@ is# 👋 Hi dear, I’m Miracle Chibuike
 
   # Skills: 
   
-![My Skills](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/486cc9b7-41ce-4393-9f57-f0dc70390bec)
+![My Skills]()
+![d9300c98f4fac3710b304e9bd82fa5de-removebg-preview](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/8d3628e8-b09f-4f6a-814c-42aaefb286fb)
+
+![download-removebg-preview](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/7785d226-4406-4435-84f1-1868de6dc0fd)
+
+![javascript-logo-1](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/690dc8ae-6cba-474e-9466-d6f9249c8e63)
+
+![bt-removebg-preview](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/c91c2fb2-3276-4860-821c-673938068028)
+
+![download-removebg-preview (2)](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/d4d6efca-07cb-4afb-89c5-79f8fd258769)
 
 
 # Connect With Me
