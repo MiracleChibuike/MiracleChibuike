@@ -1,4 +1,4 @@
-is# 👋 Hi dear, I’m Miracle Chibuike
+# 👋 Hi dear, I’m Miracle Chibuike
 - 👀 I’m interested in Coding, writing, designing and building real life projects that are well responsive. 
 - 🌱 I'm a front-end developer with a strong knowledge of HTML5, CSS 3, JavaScript and I am currently learning React and PHP.
 - 💞️ I’m looking to collaborate with any organization where my services will be needed and to work with individuals who are ready to teach new technologies.
