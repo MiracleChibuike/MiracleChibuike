@@ -3,20 +3,11 @@ is# 👋 Hi dear, I’m Miracle Chibuike
 - 🌱 I'm a front-end developer with a strong knowledge of HTML5, CSS 3, JavaScript and I am currently learning React and PHP.
 - 💞️ I’m looking to collaborate with any organization where my services will be needed and to work with individuals who are ready to teach new technologies.
 
-  # Skills: 
+  # My Skills: 
   
-
-![d9300c98f4fac3710b304e9bd82fa5de](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/2f152f63-afa3-4106-a9c5-ff61ad07cf23)
-
-
-![download-removebg-preview](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/7785d226-4406-4435-84f1-1868de6dc0fd)
-
-![javascript-logo-1](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/690dc8ae-6cba-474e-9466-d6f9249c8e63)
-
-![bt-removebg-preview](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/c91c2fb2-3276-4860-821c-673938068028)
+![codeLanguages](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/e8d048ea-8b6b-4375-b151-97a24cb3c949)
 
 
-![download](https://github.com/MiracleChibuike/MiracleChibuike/assets/130606009/bbd45085-b6df-49fd-abc2-8e3f205fe301)
 
 # Connect With Me
 [Github](https://www.github.com/MiracleChibuike)
