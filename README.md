@@ -1,14 +1,14 @@
-# 👋 Hi there! I’m Miracle Chibuike, a passionate Front-End Engineer with over 3 years of hands-on experience building responsive, high-performing, and user-friendly web applications.
+# 👋 Hi there! I am Miracle Chibuike, a voracious Front-End Engineer with a cumulative experience of more than 2 years designing responsive, high-performant, and user-friendly web applications that merge creativity, functionality, and simplicity of design.
 
-- 💻 I specialize in HTML5, CSS3, JavaScript (ES6+), and React.js, and I’m currently expanding my skill set with Node.js and PHP to strengthen my full-stack development capabilities.
+- 💻 My area of specialization includes HTML5, CSS3, JavaScript (ES6+), and React.js, and I am also increasing the scope of skills with Node.js and PHP for enhancement of full-stack development skills.
 
-- 🚀 I’ve built and contributed to several real-world projects — including business websites, educational platforms, feedback collection apps, and interactive web apps — all focused on usability, scalability, and clean UI/UX design.
+- 🚀 I've created and contributed some real-world projects — business sites, learning sites, feedback collection apps, web interacive apps — that have usability, scalability, and tidy UI/UX design at heart.
 
-- 🌍 I’m also an active open-source contributor, having collaborated on school management systems, community-based projects, and other collaborative GitHub repositories that focus on solving real-world challenges through code.
+- 🌍 I am also a contributing open-source programmer, having contributed towards school management information systems, community projects, and other open-source GitHub projects based on writing programs for real-world problems.
 
-- 🎓 Beyond coding, I work as a Front-End Development Instructor, where I teach both beginner and advanced web technologies — guiding aspiring developers to understand core programming concepts, responsive design principles, and modern web practices.
+- 🎓 Apart from coding, I am a Front-End Development Instructor, instructing beginners and advanced web technologies — mentoring prospective developers on foundational programming principles, responsive designing principles, and contemporary web techniques.
 
-- 💞️ I’m always open to collaborating with teams and organizations that value innovation, continuous learning, and impactful digital experiences. If you’re looking for a dedicated developer who enjoys bringing ideas to life — let’s connect and build something amazing!
+- 💞️ I am always ready for a teaming up with teams and companies which appreciate innovation, learning, and meaningful digital solutions. If you need a passionate developer who loves shaping ideas into reality — let’s talk! And create something tremendous together!
 
   # Tech Stacks
    - Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind CSS
