@@ -1,4 +1,4 @@
-# 👋 Hi there! I am Miracle Chibuike, a voracious Front-End Engineer with a cumulative experience of more than 2 years designing responsive, high-performant, and user-friendly web applications that merge creativity, functionality, and simplicity of design.
+# 👋 Hi there! I am Miracle Chibuike, a voracious Front-End Engineer
 
 - 💻 My area of specialization includes HTML5, CSS3, JavaScript (ES6+), and React.js, and I am also increasing the scope of skills with Node.js and PHP for enhancement of full-stack development skills.
 
