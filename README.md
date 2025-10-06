@@ -1,7 +1,19 @@
-# 👋 Hi dear, I’m Miracle Chibuike
-- 👀 I’m interested in Coding, writing, designing and building real life projects that are well responsive. 
-- 🌱 I'm a front-end engineer with a strong knowledge of and 3 years of experience in HTML5, CSS 3, JavaScript and React and I am currently learning PHP and Node.Js.
-- 💞️ I’m looking to collaborate with any organization where my services will be needed and to work with individuals who are ready to teach new technologies.
+# 👋 Hi there! I’m Miracle Chibuike, a passionate Front-End Engineer with over 3 years of hands-on experience building responsive, high-performing, and user-friendly web applications.
+
+- 💻 I specialize in HTML5, CSS3, JavaScript (ES6+), and React.js, and I’m currently expanding my skill set with Node.js and PHP to strengthen my full-stack development capabilities.
+
+- 🚀 I’ve built and contributed to several real-world projects — including business websites, educational platforms, feedback collection apps, and interactive web apps — all focused on usability, scalability, and clean UI/UX design.
+
+- 🌍 I’m also an active open-source contributor, having collaborated on school management systems, community-based projects, and other collaborative GitHub repositories that focus on solving real-world challenges through code.
+
+- 🎓 Beyond coding, I work as a Front-End Development Instructor, where I teach both beginner and advanced web technologies — guiding aspiring developers to understand core programming concepts, responsive design principles, and modern web practices.
+
+- 💞️ I’m always open to collaborating with teams and organizations that value innovation, continuous learning, and impactful digital experiences. If you’re looking for a dedicated developer who enjoys bringing ideas to life — let’s connect and build something amazing!
+
+  # Tech Stacks
+   - Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind CSS
+   - Backend (Learning): Node.js, PHP
+   - Tools: Git, GitHub, VS Code, Figma, Vite
 
   # My Skills: 
   
