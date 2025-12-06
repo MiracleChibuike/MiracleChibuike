@@ -1,4 +1,4 @@
-# 👋 Hi there! I am Miracle Chibuike, a voracious Front-End Engineer
+# 👋 Hi there! I am Onyia Miracle, a voracious Front-End Engineer
 
 - 💻 My area of specialization includes HTML5, CSS3, JavaScript (ES6+), and React.js, and I am also increasing the scope of skills with Node.js and PHP for enhancement of full-stack development skills.
 
